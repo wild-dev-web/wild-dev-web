@@ -10,10 +10,9 @@
 ### 2. [Назва наступного проєкту]
 🔗 **Посилання:** [тут буде нове посилання]
 *Стиль: Old Money, темні відтінки.*
-* **Основне портфоліо:** [wild-dev-web.github.io/my-portfolio1/](https://wild-dev-web.github.io/my-portfolio1/)
+
 ## 🛠 Технології та навички
 * **Web Design:** Tilda, Lovable, Weblium.
 * **Automation:** Створення та налаштування складних Telegram-ботів.
 * **Style:** Мінімалізм, преміальний дизайн, увага до деталей.
----
 📫 **Зв'язатися зі мною:** vls_wk23@icloud.com
