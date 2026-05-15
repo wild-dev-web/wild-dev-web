@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**wild-dev-web/wild-dev-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Привіт, я Владислав 👋
+### Vlad | Web Designer | Сайти під ключ
+Створюю конверсійні сайти в естетиці від **Old Money** до динамічних та яскравих трендів сучасного Web-дизайну, розробляю стильні презентації та налаштовую Telegram-ботів для бізнесу.
+---
+## 🚀 Мої роботи
+* **Основне портфоліо:** [wild-dev-web.github.io/my-portfolio1/](https://wild-dev-web.github.io/my-portfolio1/)
+## 🛠 Технології та навички
+* **Web Design:** Tilda, Lovable, Weblium.
+* **Automation:** Створення та налаштування складних Telegram-ботів.
+* **Style:** Мінімалізм, преміальний дизайн, увага до деталей.
+---
+📫 **Зв'язатися зі мною:** vls_wk23@icloud.com
