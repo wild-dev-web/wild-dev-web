@@ -8,7 +8,7 @@
 *Стиль: Класичний, світлий.*
 
 ### 2. [Назва наступного проєкту]
-🔗 **Посилання:** https://listen-sure-bowl.tilda.ws/page141978193.html#rec2275950753
+🔗 **Посилання:** [https://listen-sure-bowl.tilda.ws/page141978193.html#rec2275950753](https://listen-sure-bowl.tilda.ws/page141978193.html)
 *Стиль: Old Money, темні відтінки.*
 
 ## 🛠 Технології та навички
