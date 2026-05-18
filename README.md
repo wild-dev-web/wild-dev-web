@@ -8,7 +8,7 @@
 *Стиль: Класичний, світлий.*
 
 ### 2. Будівельна компанія OSNOVA
-🔗 **Посилання:** https://listen-sure-bowl.tilda.ws/page141978193.html
+🔗 **Посилання:** [https://listen-sure-bowl.tilda.ws/page141978193.html](https://listen-sure-bowl.tilda.ws/page141978193.html)
 *Стиль: Мінімалізм, білий та жовтогарячий з темними відтінками.*
 
 ## 🛠 Технології та навички
